@@ -1,0 +1,5 @@
+SET a = 5
+SET b = 10
+ADD a b
+SUB a b
+PRINT a
