@@ -1,5 +1,10 @@
 # Mini Compiler using Flex and Bison
 
+## Student Details
+- Name: Sachitha Ravichandran  
+- Register No: RA2311026050007  
+- Subject: Compiler Design 
+
 ## Description
 This project implements a simple compiler for a Domain Specific Language (DSL).
 
