@@ -21,6 +21,20 @@ This project implements a simple compiler for a Domain Specific Language (DSL).
 - GCC
 - C Language
 
+## Sample Input
+SET a = 5
+SET b = 10
+ADD a b
+SUB a b
+PRINT a
+
+## Output
+Assigned a = 5
+Assigned b = 10
+t1 = a + b
+t1 = a - b
+Print a = 5
+
 ## How to Run
 
 ```bash
